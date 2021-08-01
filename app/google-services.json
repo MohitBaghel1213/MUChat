@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395396521683",
+    "project_id": "muchat-43615",
+    "storage_bucket": "muchat-43615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395396521683:android:05455e54ba1019653e3e26",
+        "android_client_info": {
+          "package_name": "com.mohit.muchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395396521683-kcn9bpjt2sokujmbf3ldobgof86r7pii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVMBBsjA9wf2t3OJBoLWaZfFBuhmXh70Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395396521683-kcn9bpjt2sokujmbf3ldobgof86r7pii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
